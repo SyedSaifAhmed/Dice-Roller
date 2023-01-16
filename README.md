@@ -1,4 +1,6 @@
-# Dice-Roller
+# Dice Roller Game
+
+Roll two dice. Player with the higher number wins.
 
 
 ## Demo
